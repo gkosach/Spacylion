@@ -34,13 +34,13 @@
 <h2>Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spacylion&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gkosach&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Statistics" />
 <a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"><img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="Total time coded since Jun 14 2024" /></a>
 
 <h3>Connect with me:</h3>
 <p>
   Feel free to reach out to me via LinkedIn, GitHub, Telegram or Instagram. Let's connect and collaborate!<br/>
-  <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a> | <a href="https://www.instagram.com/duckb.yte/">Instagram</a>
+  <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> | <a href="https://github.com/gkosach">GitHub</a> | <a href="https://t.me/drdev">Telegram</a> | <a href="https://www.instagram.com/duckb.yte/">Instagram</a>
 </p>
 <p>
   <a href="https://t.me/duckbyte" target="blank">Telegram Blog</a> 
