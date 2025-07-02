@@ -1,8 +1,8 @@
-<p align="center"> <a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"> <img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="WakaTime - Coding Activity" /> </a> </p> <p align="center"> <a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"> <img src="https://wakatime.com/share/@5fc62e08-4e5e-4073-96b9-1543b53b93bc/7c2b2b8d-2e12-4c17-8c7b-9d4e4c6a8c2b.svg" alt="WakaTime Weekly Stats" width="600"/> </a> </p> <p align="center"> <img src="https://www.codewars.com/users/Spacylion/badges/micro" alt="Codewars Badge" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=German+Kosach+%7C+Team+Lead+%7C+Backend+Expert+%7C+Blockchain+Engineer" alt="Typing SVG" /> </p> <h2 align="center">👋 Hi, I'm German Kosach</h2> <p align="center"><b>Team Lead - Senior Backend & Fullstack Developer - Blockchain Integration Engineer - Mentor</b></p>
+<p align="center"> <a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"> <img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="WakaTime - Coding Activity" /> </a> </p> <p align="center"> <a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"> <img src="https://wakatime.com/share/@5fc62e08-4e5e-4073-96b9-1543b53b93bc/7c2b2b8d-2e12-4c17-8c7b-9d4e4c6a8c2b.svg" alt="WakaTime Weekly Stats" width="600"/> </a> </p> <p align="center"> <img src="https://www.codewars.com/users/Spacylion/badges/micro" alt="Codewars Badge" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=German+Kosach+%7C+Team+Lead+%7C+Backend+Expert+%7C+Blockchain+Engineer" alt="Typing SVG" /> </p> <h2 align="center">👋 Hi, I'm German Kosach</h2> <p align="center"><b>Team Lead · Senior Backend & Fullstack Developer · Blockchain Integration Engineer · Mentor</b></p>
 🚀 About Me
 WES-certified Ph.D. (Medicine) turned elite software engineer
 
-Senior Backend Team Lead @ top Moscow IT company (250,000₽/mo)
+Senior Backend Team Lead @ Moscow’s top IT company (₽250,000/mo)
 
 10+ years in tech: TypeScript, Node.js, PostgreSQL, Solidity, React, GraphQL, Python
 
@@ -34,6 +34,4 @@ Lifestyle: 9 months Russia 🇷🇺, 3 months Dubai ☀️
 📊 Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gkosach&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" /> </p>
 🌐 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> · <a href="https://github.com/gkosach">GitHub</a> · <a href="https://t.me/drdev">Telegram</a> · <a href="https://www.instagram.com/duckb.yte/">Instagram</a> · <a href="https://twitter.com/spacylion">Twitter</a> · <a href="https://t.me/duckbyte">TG Blog</a> </p> <h3 align="center">Ready to build legendary products? DM me. Let's make your team unstoppable.</h3>
-German Kosach
-Engineering. Leadership. Growth. Blockchain. Team building.
+<p align="center"> <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> · <a href="https://github.com/gkosach">GitHub</a> · <a href="https://t.me/drdev">Telegram</a> · <a href="https://www.instagram.com/duckb.yte/">Instagram</a> · <a href="https://twitter.com/spacylion">Twitter</a> · <a href="https://t.me/duckbyte">TG Blog</a> </p> <h3 align="center">Ready to build legendary products? DM me. Let's make your team unstoppable.</h3> <p align="center"><b>German Kosach</b><br> Engineering · Leadership · Growth · Blockchain · Team building</p>
