@@ -2,7 +2,7 @@
 🚀 About Me
 WES-certified Ph.D. (Medicine) turned elite software engineer
 
-Senior Backend Team Lead @ Moscow’s top IT company (₽250,000/mo)
+Senior Backend Team Lead @ Moscow’s top IT company
 
 10+ years in tech: TypeScript, Node.js, PostgreSQL, Solidity, React, GraphQL, Python
 
